@@ -27,9 +27,9 @@ PyPet Battle Game:
 
 # ### Imports ################################################################
 
-from pets import PICS, PETS
 import random
 import time
+from pets import PICS, PETS
 
 # ## Global Variables ########################################################
 
